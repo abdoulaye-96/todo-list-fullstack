@@ -1,4 +1,4 @@
-# 🚀 Fullstack To-Do List Application
+#  Fullstack To-Do List Application
 
 This is a fullstack web application that allows users to manage their daily tasks efficiently.
 
@@ -6,7 +6,7 @@ The project was built as part of an academic assignment, with a focus on clean a
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend
 - Spring Boot (REST API)
@@ -20,17 +20,17 @@ The project was built as part of an academic assignment, with a focus on clean a
 
 ---
 
-## ✨ Features
+##  Features
 
-- ➕ Create a task  
-- 📝 Update a task  
-- ❌ Delete a task  
-- 📋 View all tasks  
-- ✅ Mark a task as completed  
+1- Create a task  
+2-  Update a task  
+3- Delete a task  
+4- View all tasks  
+5- Mark a task as completed  
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 The backend follows a layered architecture:
 
@@ -47,7 +47,7 @@ This ensures:
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|--------|-------------|
@@ -59,7 +59,7 @@ This ensures:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the repository
 
