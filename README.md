@@ -64,5 +64,4 @@ This ensures:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone git@github.com:abdoulaye-96/todo-list-fullstack.git
